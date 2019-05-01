@@ -8,7 +8,7 @@
 .wdxc li { width: 32%; overflow: hidden; float: left; height: 80px; margin-bottom: 2px; margin-right: 2px }
 .wdxc li img {width: 100%; height:100%; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; transition: all 0.5s; }
 .wdxc li img:hover { transform: scale(1.05) }
-.fenlei li { float:left; display:block; width:50%; }
+.fenlei li { float:left; display:block; width:85%; }
 .tuijian li { text-overflow: ellipsis; white-space: nowrap; overflow: hidden; margin-bottom: 5px; background: url(../images/li.png) left center no-repeat; padding-left: 20px }
 .links a { display: block; float: left; margin: 0 10px 5px 0 }
 .guanzhu img { width: 100% }
